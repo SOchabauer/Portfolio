@@ -1,7 +1,7 @@
 /* filepath: /Users/sophiaochabauer/Desktop/PortfolioWebsite/Portfolio/css/Bio.css */
 @font-face {
     font-family: 'Sofi';
-    src: url('Sofi-Regular.ttf') format('truetype');
+    src: url('css/Fonts.css/Sofi-Regular.ttf') format('truetype');
 }
 
 body {
