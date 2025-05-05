@@ -1,4 +1,15 @@
 @font-face {
 	font-family: 'Sofi';
-	src: url('assets/Sofi-Regular.ttf');
+	src: url('../assets/Sofi-Regular.ttf');
+}
+
+body {
+	font-family: 'Sofi', sans-serif;
+}
+
+pre {
+	font-family: 'Sofi', sans-serif;
+}
+h1 {
+	font-family: 'Sofi', sans-serif;
 }
